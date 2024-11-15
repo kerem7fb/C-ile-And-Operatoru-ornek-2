@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\bin\Debug\And Operatörü 2 (Ses).exe.config
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\bin\Debug\And Operatörü 2 (Ses).exe
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\bin\Debug\And Operatörü 2 (Ses).pdb
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\obj\Debug\And Operatörü 2 (Ses).csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\obj\Debug\And_Operatörü_2__Ses_.Form1.resources
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\obj\Debug\And_Operatörü_2__Ses_.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\obj\Debug\And Operatörü 2 (Ses).csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\obj\Debug\And Operatörü 2 (Ses).exe
+C:\Users\user\Desktop\10-M\And Operatörü 2 (Ses)\And Operatörü 2 (Ses)\obj\Debug\And Operatörü 2 (Ses).pdb
